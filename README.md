@@ -1,5 +1,6 @@
-# Flask Project
-The project for study Flask framework in Hillel Python Pro course.
+# Flask Website Project
+
+This project is designed to be a practical introduction to the Flask framework for Python. Developed as part of the Hillel Python Pro course, it provides a hands-on learning experience for building web applications.  Explore core Flask concepts like routing, templates, and request handling while constructing a functional application. This project serves as a foundation for understanding web development with Python and Flask.
 
 #### Stack:
 
