@@ -27,3 +27,7 @@ All actions should be executed from the source directory of the project and only
 ```
 Run a file called main.
 ```
+
+## License
+
+This project uses the [MIT] license(https://github.com/Sauberr/flask-2024/blob/master/LICENSE)
